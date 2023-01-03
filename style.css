@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+
+}
+
+h1 {
+   
+    color: blue;
+    background-color: wheat ;
+    border: 4px;
+    border-radius: 4px;
+
+}
+h6{
+    text-decoration: underline;
+}
+p{
+    margin: 50px;
+}
